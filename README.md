@@ -1,4 +1,4 @@
- # Game<br>
+ # Simple Game<br>
 1. To Run this on your system you need to first install python game library ie : pygame .<br>
 2. You can download this library from here URL : https://www.pygame.org<br>
 3. Or You can use this command to install on your system : pip3 install pygame .<br>
